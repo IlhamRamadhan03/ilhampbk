@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <img src="IMG_1655aaaaaaaaa.jpg">
+    <h1>Nama : Ilham Ramadhan</h1>
+    <h1>Npm : 213510236</h1>
   </div>
 </template>
